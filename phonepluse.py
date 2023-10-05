@@ -25,7 +25,7 @@ st.sidebar.header(":wave: :violet[**Hello! Welcome to the dashboard**]")
 # Creating connection with mysql workbench
 mydb = sql.connect(host="localhost", #127.0.0.1
                    user="root",
-                   password="Adrielsheena@03",
+                   password="000000000000000000000",
                    port="3306",
                    database= "phonepe_pulse",
                    auth_plugin="mysql_native_password"
